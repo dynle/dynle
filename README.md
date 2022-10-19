@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=270&section=header&text=Doyoon%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=270&section=header&text=Doyoon%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=dynle&descAlignY=51&descAlign=75)
 
 <p align="center">🇰🇷 🇯🇵</p>
 
