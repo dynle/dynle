@@ -2,7 +2,7 @@
 
 <p align="center">🇰🇷 🇯🇵</p>
 
-<h3 align="center">A Korean Undergraduate Student at Keio University SFC, Japan</h3>
+<h3 align="center">Keio University SFC ➡️ Osaka University</h3>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
